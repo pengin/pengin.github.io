@@ -1,4 +1,4 @@
-baseurl                 = "https://pengin.github.io/blog"
+baseurl                 = "https://pengin.github.io/"
 DefaultContentLanguage  = "ja"
 title                   = "Pengin Photography"
 theme                   = "hugo-future-imperfect-slim"

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pengin Photography</title>
-    <link>https://pengin.github.io/blog/en/</link>
+    <link>https://pengin.github.io/en/</link>
     <description>Recent content on Pengin Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://pengin.github.io/blog/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pengin.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
