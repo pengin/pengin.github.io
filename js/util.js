@@ -56,5 +56,5 @@
 	    }
 	  }
 	}
-
+	$('#myImageCompare').imagesCompare();
 })(jQuery);
