@@ -4,13 +4,13 @@
   
   <url>
     <loc>https://pengin.github.io/blog/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pengin.github.io/categories/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -26,7 +26,7 @@
   
   <url>
     <loc>https://pengin.github.io/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,7 +42,7 @@
   
   <url>
     <loc>https://pengin.github.io/tags/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -57,15 +57,32 @@
   </url>
   
   <url>
-    <loc>https://pengin.github.io/tags/photo/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <loc>https://pengin.github.io/categories/doll/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/tags/doll/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pengin.github.io/categories/photo/</loc>
-    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/tags/photo/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/blog/20190512_super_long_exposure/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -75,13 +92,13 @@
   </url>
   
   <url>
-    <loc>https://pengin.github.io/tags/travel/</loc>
+    <loc>https://pengin.github.io/categories/travel/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pengin.github.io/categories/travel/</loc>
+    <loc>https://pengin.github.io/tags/travel/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
