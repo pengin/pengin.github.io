@@ -6,10 +6,22 @@
     <description>Recent content in photo on Pengin Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pengin.github.io/tags/photo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>コミケのこと</title>
+      <link>https://pengin.github.io/blog/20191227/</link>
+      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pengin.github.io/blog/20191227/</guid>
+      <description>久しぶりの更新です。ブログ用のローカルリポジトリが壊れていたのをなんとか修復しました。。。 さて、明日(12 / 28) からのコミックマーケット97、参加します。 弊サークル「ぺんぎん海岸」は最終日の南ホール セ-15bという配置になっております。
++++
+サンプルこんな感じになります。
+         </description>
+    </item>
     
     <item>
       <title>美ヶ原日帰り撮影 part2</title>
