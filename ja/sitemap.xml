@@ -4,13 +4,13 @@
   
   <url>
     <loc>https://pengin.github.io/blog/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pengin.github.io/categories/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -26,7 +26,7 @@
   
   <url>
     <loc>https://pengin.github.io/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -42,7 +42,7 @@
   
   <url>
     <loc>https://pengin.github.io/tags/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -54,6 +54,35 @@
                 hreflang="ja"
                 href="https://pengin.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/categories/photo/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/tags/photo/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/categories/travel/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/tags/travel/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pengin.github.io/blog/20200108/</loc>
+    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,32 +98,8 @@
   </url>
   
   <url>
-    <loc>https://pengin.github.io/categories/photo/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pengin.github.io/tags/photo/</loc>
-    <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://pengin.github.io/blog/20191227/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pengin.github.io/categories/travel/</loc>
-    <lastmod>2019-05-15T00:00:00+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pengin.github.io/tags/travel/</loc>
-    <lastmod>2019-05-15T00:00:00+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
